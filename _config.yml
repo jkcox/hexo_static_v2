@@ -69,4 +69,4 @@ theme: bootstrap-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/jkcox/hexo_static
+  repo: git@github.com:jkcox/hexo_static_v2.git
